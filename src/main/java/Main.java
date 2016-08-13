@@ -1,5 +1,6 @@
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.InputMismatchException;
 
 /**
@@ -20,7 +21,7 @@ public class Main {
 			}
 		}
 		System.out.println("*** Before sorting: ***");
- 
+		 
         for (Employee emp : employees) {
             System.out.println(emp);
         }
@@ -33,6 +34,5 @@ public class Main {
             System.out.println(emp);
         }
 
-		
 	}
 }
