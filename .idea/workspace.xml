@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81a8c879-0cd4-4ecc-8312-cb29f77cfdb4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/EmployeeNameComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/EmployeePositionComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/EmployeeSalaryComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/EmployeeSurnameComparator.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/EmployeeComparator.class" afterPath="$PROJECT_DIR$/target/classes/EmployeeComparator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/EmployeePositionComparator.class" afterPath="$PROJECT_DIR$/target/classes/EmployeePositionComparator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/EmployeeSalaryComparator.class" afterPath="$PROJECT_DIR$/target/classes/EmployeeSalaryComparator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/EmployeeSurnameComparator.class" afterPath="$PROJECT_DIR$/target/classes/EmployeeSurnameComparator.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Main.java" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
     </list>
     <ignored path="Employee.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -474,6 +465,14 @@
       <option name="presentableId" value="Default" />
       <updated>1470503901291</updated>
     </task>
+    <task id="LOCAL-00001" summary="The files were deleted: EmployeeNameComparator, EmployeePositionComparator, EmployeeSalaryComparator, EmployeeSurnameComparator">
+      <created>1471375750282</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1471375750282</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -516,6 +515,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The files were deleted: EmployeeNameComparator, EmployeePositionComparator, EmployeeSalaryComparator, EmployeeSurnameComparator" />
+    <option name="LAST_COMMIT_MESSAGE" value="The files were deleted: EmployeeNameComparator, EmployeePositionComparator, EmployeeSalaryComparator, EmployeeSurnameComparator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
